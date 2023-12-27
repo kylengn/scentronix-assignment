@@ -41,6 +41,4 @@ describe('findServer function', () => {
 
     await expect(findServer(servers)).rejects.toThrow('No servers are online.')
   })
-
-  // Add more tests as necessary...
 })

@@ -1,4 +1,3 @@
-// interfaces/Recipe.ts
 export interface Recipe {
   title: string
   description: string
